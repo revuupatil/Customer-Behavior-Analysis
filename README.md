@@ -1,4 +1,4 @@
-Project Overview
+Project Overview:
 This project analyzes customer shopping behavior to uncover insights related to purchasing patterns, revenue contribution, and customer engagement.
 The goal is to help businesses understand who their customers are, how they buy, and what drives revenue, using data analytics and visualization.
 
@@ -62,5 +62,6 @@ Review SQL and Python files for analysis logic
 📌 Conclusion
 This project demonstrates end-to-end data analysis skills—from raw data exploration to business-focused insights and interactive dashboarding—making it suitable for real-world business decision support.
 
+Author-
 Revati Patil
 Data Analyst | SQL • Power BI • Python • Excel
